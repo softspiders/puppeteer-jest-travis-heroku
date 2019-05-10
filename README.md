@@ -1,4 +1,4 @@
-# The simplest example of testing a web application in the Puppeteer and Jest, included in the US / SD pipeline
+# The simplest example of testing a web application in the Puppeteer and Jest, included in the CI/CD pipeline (GitHub->Travis CI->Heroku)
 
 ## Requirements
 
