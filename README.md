@@ -6,7 +6,11 @@
 
 ## Direct feature ancestors
 
-[puppeteer](https://github.com/softspider/puppeteer)
+[puppeteer-jest](https://github.com/softspider/puppeteer-jest)
+
+## Direct code ancestors
+
+[puppeteer-jest](https://github.com/softspider/puppeteer-jest)
 
 ---
 
