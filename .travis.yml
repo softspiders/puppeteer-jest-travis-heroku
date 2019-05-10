@@ -9,4 +9,4 @@ deploy:
   api_key:
     secure: $HEROKU_API_KEY
   app:
-    ci/cd: puppeteer-jest-travis-heroku
+    master: puppeteer-jest-travis-heroku
