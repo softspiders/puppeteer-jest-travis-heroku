@@ -8,8 +8,8 @@
 
 ## Direct feature ancestors
 
-[puppeteer-jest](https://github.com/softspider/puppeteer-jest)
-[node-travis-heroku-cd](https://github.com/softspider/node-travis-heroku-cd)
+* [puppeteer-jest](https://github.com/softspider/puppeteer-jest)
+* [node-travis-heroku-cd](https://github.com/softspider/node-travis-heroku-cd)
 
 ## Direct code ancestors
 
