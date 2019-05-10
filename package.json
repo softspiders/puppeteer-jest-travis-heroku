@@ -29,6 +29,7 @@
   "author": "Alexander Lapygin",
   "license": "ISC",
   "devDependencies": {
+    "jest": "^24.8.0",
     "jest-environment-node": "^24.8.0",
     "jest-puppeteer": "^3.7.0",
     "puppeteer": "^1.11.0"
