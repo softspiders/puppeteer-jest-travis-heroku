@@ -4,9 +4,12 @@
 
 [Node.js](https://nodejs.org/en/download/package-manager/) >= v6.4.0
 
+---
+
 ## Direct feature ancestors
 
-[puppeteer-jest](https://github.com/softspider/puppeteer-jest)
+* [puppeteer-jest](https://github.com/softspider/puppeteer-jest)
+* [node-travis-heroku-cd](https://github.com/softspider/node-travis-heroku-cd)
 
 ## Direct code ancestors
 
@@ -33,6 +36,13 @@ node index
 ```sh
 yarn test
 ```
+---
+
+## Demo
+
+https://puppeteer-jest-travis-heroku.herokuapp.com/
+
+---
 
 ## Authors
 
