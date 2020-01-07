@@ -1,5 +1,18 @@
 # The simplest example of testing an Express application with Puppeteer and Jest, included in the CI/CD *GitHub->Travis CI->Heroku* pipeline.
 
+## Feature tags
+
+- build
+- ci
+- cd
+- deploy
+- heroku
+- jest
+- puppeteer
+- template
+- travis
+- nodejs
+
 ## Requirements
 
 [Node.js](https://nodejs.org/en/download/package-manager/) >= v6.4.0
