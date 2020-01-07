@@ -29,6 +29,12 @@
 
 [puppeteer-jest](https://github.com/softspider/puppeteer-jest)
 
+
+## Direct feature descendants
+
+[next-puppeteer-jest-travis-heroku](https://github.com/softspider/next-puppeteer-jest-travis-heroku)
+
+
 ---
 
 ## Installation
