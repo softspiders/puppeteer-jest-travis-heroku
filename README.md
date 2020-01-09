@@ -1,3 +1,4 @@
+SOFTSPIDERS
 # The simplest example of testing an Express application with Puppeteer and Jest, included in the CI/CD *GitHub->Travis CI->Heroku* pipeline.
 
 ## Feature tags
@@ -20,14 +21,10 @@
 
 ---
 
-## Direct feature ancestors
+## Direct ancestors
 
-* [puppeteer-jest](https://github.com/softspider/puppeteer-jest)
+* [puppeteer-jest](https://github.com/softspider/puppeteer-jest) - also by code
 * [node-travis-heroku-cd](https://github.com/softspider/node-travis-heroku-cd)
-
-## Direct code ancestors
-
-[puppeteer-jest](https://github.com/softspider/puppeteer-jest)
 
 
 ## Direct feature descendants
