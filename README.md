@@ -23,13 +23,13 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-* [puppeteer-jest](https://github.com/softspider/puppeteer-jest) - also by code
-* [node-travis-heroku-cd](https://github.com/softspider/node-travis-heroku-cd)
+* [puppeteer-jest](https://github.com/softspiders/puppeteer-jest) - also by code
+* [node-travis-heroku-cd](https://github.com/softspiders/node-travis-heroku-cd)
 
 
 ## Direct feature descendants
 
-[next-puppeteer-jest-travis-heroku](https://github.com/softspider/next-puppeteer-jest-travis-heroku)
+[next-puppeteer-jest-travis-heroku](https://github.com/softspiders/next-puppeteer-jest-travis-heroku)
 
 
 ---
