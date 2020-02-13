@@ -1,4 +1,5 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
+
 # The simplest example of testing an Express application with Puppeteer and Jest, included in the CI/CD *GitHub->Travis CI->Heroku* pipeline.
 
 ## Feature tags
@@ -11,13 +12,9 @@ SOFTSPIDERS
 - heroku
 - jest
 - puppeteer
+- starter
 - template
 - travis
-- nodejs
-
-## Requirements
-
-[Node.js](https://nodejs.org/en/download/package-manager/) >= v6.4.0
 
 ---
 
@@ -26,10 +23,16 @@ SOFTSPIDERS
 * [puppeteer-jest](https://github.com/softspiders/puppeteer-jest) - also by code
 * [node-travis-heroku-cd](https://github.com/softspiders/node-travis-heroku-cd)
 
-
 ## Direct feature descendants
 
 [next-puppeteer-jest-travis-heroku](https://github.com/softspiders/next-puppeteer-jest-travis-heroku)
+
+---
+
+## Requirements
+
+[Node.js](https://nodejs.org/en/download/package-manager/) >= v6.4.0
+
 
 
 ---
